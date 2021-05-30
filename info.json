@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "bba1012b34ce0625ca7edea86378a7d7e31de816",
+    "author": "Lluís <llrs@users.noreply.github.com>",
+    "time": "2021-05-30 22:52:52",
+    "files": 1,
+    "merge": false,
+    "message": "Omits the call to lookup_users (#586)\n\n"
+  },
+  "remote": "https://github.com/ropensci/rtweet",
+  "pkg": "rtweet"
+}
