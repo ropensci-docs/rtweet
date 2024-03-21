@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "fa9f4da08aee01e9ae47cb9602aa27ac761e66a8",
+    "author": "Lluís <lluis.revilla@gmail.com>",
+    "time": "2024-03-21 19:59:21",
+    "files": 2,
+    "merge": false,
+    "message": "Update the README!\n"
+  },
+  "repo": "https://github.com/ropensci/rtweet",
+  "pkg": "rtweet"
+}
